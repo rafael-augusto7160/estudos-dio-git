@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DIO | Resumos BootHub
 
 Repositório para armazenar o link para os resumos do curso da [DIO](https://web.dio.me/home), mas o site da [Evernote](https://evernote.com/) necessita de LogIn.
@@ -18,3 +19,6 @@ Repositório para armazenar o link para os resumos do curso da [DIO](https://web
 -
 
 
+=======
+# estudos-dio-git
+>>>>>>> 0d3d8360da1f3567028ba46b300e36f9934d499b
